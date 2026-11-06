@@ -1,0 +1,26 @@
+Documentation for NCAE Cybergames
+
+Day 1- Thursday, October 22nd, 2026: 
+
+We went over the roles and who is doing what, planned out what will be gone over in future study sessions. Next few meetings that are before January will occur every 2 weeks, after January meetings will be weekly in preparation for the NCAE Cyber games. 
+
+So far the roles are set like this: 
+Network and Router - Alex
+DNS - Kaleb
+Web Server/ General - Mark 
+SSH/ General Sysadmin – Simeon
+Server Monitor/ General Help – Dallas
+Database/ General Help – Elijah
+CTF/ Cryptography – (Empty)
+SMB/ Backups – (Empty)
+
+A GitHub repository accessible to all member of the SCC cyber team will be made to store resources and scripts. Scripts must be approved by NCAE administration for use in the Cybergames. 
+
+This concludes our first study session.
+
+
+Day 2- Thursday, November 5th, 2026:
+
+Today we went over the basic/ essential to know Linux commands, a rough explaination of the Linux/ Unix file structure, what is where and how to navigate that. Additionally, we all signed up on PWNCollege as a team to practice various CTF, cryptograhy, cyber security, etc challenges. Plans were made on how to go at on the next practice session, possibly setting up a students pre made Ubuntu virtual machine file and using them in two parts. Part 1 will be us using the VM as a sandbox to put the commands to use by going over essential linux safety configuration, part 2 will be us going throught the “Blue team checklist” NCAE challenges configured on that VM.
+
+This concludes our second study session. 
