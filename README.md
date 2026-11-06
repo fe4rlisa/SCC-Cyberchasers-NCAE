@@ -1,6 +1,6 @@
 # SCC Cyberchasers - NCAE Spring 2027 (Team 3)
 
-Blue Team prep materials, baseline configurations, and pre-approved automation scripts for Team 3. 
+Blue Team prep materials, baseline configurations, and pre-approved automation scripts.
 
 Since the NCAE competition network is intentionally isolated (no public internet, `apt update`, or external DNS), these resources focus entirely on native Linux tools, offline troubleshooting, and local backups. 
 
